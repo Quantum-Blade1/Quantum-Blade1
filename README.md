@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, AI, ML, Quantum Computing Full Stack Development Cloud, DevOps & Databases**
 
-- 📫 How to reach me **Email: quantum.chain@gmail.com LinkedIn: https://www.linkedin.com/in/krish-kumar-sharma-842419378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+- 📫 How to reach me **Email: quantum.chain@gmail.com
 
 - ⚡ Fun fact **I think I am funny… and my qubits are always in superposition 😎**
 
