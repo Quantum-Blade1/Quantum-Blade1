@@ -2,14 +2,12 @@
 
 # Krish Kumar Sharma
 
-**Quantum Compiler Engineer | Research @ MSRIT**
-
 *I build quantum systems that scale. Custom MLIR compilers. Hybrid quantum-classical optimization. Neuro-symbolic AI.*
 
 ---
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:KrishKumarSharma72@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-kumar-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-kumar-sharma-842419378/)
 [![Location](https://img.shields.io/badge/Bangalore-India-success?style=flat-square&logo=google-maps&logoColor=white)](#)
 
 </div>
