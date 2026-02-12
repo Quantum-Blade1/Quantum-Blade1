@@ -2,7 +2,7 @@
 
 # Krish Kumar Sharma
 
-*I build quantum systems that scale. Custom MLIR compilers. Hybrid quantum-classical optimization. Neuro-symbolic AI.*
+*I build system Architectures and Design that scale. Custom MLIR compilers. Hybrid quantum-classical optimization. High performance computaion(HPC)*
 
 ---
 
@@ -14,17 +14,17 @@
 
 ---
 
-## 🎯 What I Build
+## What I Build/Intrusts
 
-**Not apps. Infrastructure.**
+**Not apps. System Design and Infrastructure.**
 
-I write compilers for quantum computers that don't exist yet. I optimize trading algorithms using quantum mechanics. I merge neural networks with symbolic reasoning in ways nobody else is trying.
+I Build compilers for quantum computers that don't exist yet. I Research on optimizing trading algorithms using quantum mechanics. I Expresment mergeing neural networks with symbolic reasoning.
 
-**Current focus**: Distributed quantum circuit compilation | Quantum-enhanced ML | Research publications
+**Current focus**: HPC | Ccomputation-Compilation | Quantum-Enhanced ML | Research Publications
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects(Based on Research)
 
 ### **DQC1** — Distributed Quantum Compiler
 Custom MLIR/LLVM infrastructure for multi-QPU quantum systems.
@@ -37,7 +37,7 @@ Custom MLIR/LLVM infrastructure for multi-QPU quantum systems.
 
 ---
 
-### **Quantum Trading Engine** — Hybrid Optimization System
+### **Trading Engine** — Hybrid Optimization System
 Research-grade execution engine using QUBO + QAOA.
 
 - 38-67% improvement over traditional VWAP/TWAP strategies
@@ -49,9 +49,23 @@ Research-grade execution engine using QUBO + QAOA.
 ---
 
 ### **Engineering Cogitative Core** — Neuro-Symbolic AI
-Quantum-enhanced framework bridging neural nets with symbolic reasoning.
+AI enhanced framework bridging neural nets with symbolic reasoning.
 
-**Status**: Active research → Target publication 2025
+**Status**: Active research
+
+---
+
+### **(Not named yet)** — QGNN, AIML
+Related to kernals Based on the High Conputaional hardware Acceleration.
+
+**Status**: Active Brainstorming 
+
+---
+
+### **Self-Learning and Research
+Currently Learning Concepts QGNN, HPC, Quantum-classical algorithms, Classical Concepts(Kernals, Ring structure, DSA).
+
+**Status**: Active
 
 ---
 
@@ -61,17 +75,17 @@ Quantum-enhanced framework bridging neural nets with symbolic reasoning.
 1. *DQC1: An MLIR-Based Compiler for Distributed Quantum Circuits*
 2. *Quantum-Enhanced Neuro-Symbolic Reasoning Systems*
 
-**Target**: IEEE Quantum Week, ICML, NeurIPS, ACM Conferences
+**Target**: IEEE Quantum Week, ICML, ACM Conferenc
 
 **Goal**: 2 peer-reviewed publications by 2028 graduation
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Skills(Learning)
 
-**Quantum**: MLIR · QUBO · QAOA · Qiskit · Circuit Optimization  
-**Systems**: C++ · LLVM · MPI · Compiler Design · Low-Latency Architecture  
-**AI/ML**: PyTorch · Neuro-Symbolic · Quantum ML · Optimization Algorithms  
+**Quantum**: QGNN · QUBO · QAOA · Qiskit · Circuit Optimization  
+**Systems**: C++ · MLIR/LLVM · MPI · Compiler Design · Low-Latency Architecture  
+**AI/ML**: PyTorch · TensorFlow · Quantump-classical ML · Optimization Algorithms  
 **Engineering**: Python · Distributed Systems · HPC · Full-Stack (MERN/Vue)
 
 <div align="center">
@@ -87,19 +101,19 @@ Quantum-enhanced framework bridging neural nets with symbolic reasoning.
 
 ---
 
-## 🤝 Open For
+## Open For
 
-**Research Collaboration**: Quantum compilers, neuro-symbolic AI, quantum ML  
-**Publications**: Co-authoring papers in quantum computing or AI systems  
+**Research Collaboration**: Quantum compilers, AIML, Adv Computation  
+**Publications**: Co-authoring papers in quantum computing, Classical computation, System Architectur or AI systems  
 **Projects**: Building systems that push technical boundaries
 
-**Looking for**: Researchers, engineers, PhD students working on hard problems.
+**Looking for**: Researchers, engineers, Students working on Any problems.
 
 ---
 
 ## 💬 Let's Talk
 
-Building something ambitious in quantum computing or AI? Let's connect.
+Building or Learning something ambitious, Let's connect.
 
 **📧** KrishKumarSharma72@gmail.com  
 **🔗** [LinkedIn](https://www.linkedin.com/in/krish-kumar-sharma-842419378/)  
@@ -109,9 +123,9 @@ Building something ambitious in quantum computing or AI? Let's connect.
 
 <div align="center">
 
-### *"Most people build what exists. I build what should exist."*
+### *"Most people build what exists. I Wanna build what should exist."*
 
-**BTech CSE @ MSRIT · Class of 2028 · Bangalore**
+**BTech CSE @ MSRIT · Batch of 2028 · Bangalore**
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Quantum-Blade1.Quantum-Blade1)
 
