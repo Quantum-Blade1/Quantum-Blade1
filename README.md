@@ -69,7 +69,7 @@ Currently Learning Concepts QGNN, HPC, Quantum-classical algorithms, Classical C
 
 ---
 
-## 📝 Research
+##  Research
 
 **Papers in Preparation**:
 1. *DQC1: An MLIR-Based Compiler for Distributed Quantum Circuits*
@@ -81,7 +81,7 @@ Currently Learning Concepts QGNN, HPC, Quantum-classical algorithms, Classical C
 
 ---
 
-## ⚡ Tech Skills(Learning)
+##  Tech Skills(Learning)
 
 **Quantum**: QGNN · QUBO · QAOA · Qiskit · Circuit Optimization  
 **Systems**: C++ · MLIR/LLVM · MPI · Compiler Design · Low-Latency Architecture  
@@ -111,7 +111,7 @@ Currently Learning Concepts QGNN, HPC, Quantum-classical algorithms, Classical C
 
 ---
 
-## 💬 Let's Talk
+##  Let's Talk
 
 Building or Learning something ambitious, Let's connect.
 
