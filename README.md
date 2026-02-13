@@ -2,7 +2,7 @@
 
 # Krish Kumar Sharma
 
-*I build system Architectures and Design that scale. Custom MLIR compilers. Hybrid quantum-classical optimization. High performance computaion(HPC)*
+*I Learn & build system Architectures and Design that scale. Custom MLIR compilers. Hybrid quantum-classical optimization. High performance computaion(HPC)*
 
 ---
 
