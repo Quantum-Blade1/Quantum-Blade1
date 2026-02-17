@@ -14,9 +14,9 @@
 
 ---
 
-## What I Build/Intrusts
+## What I Build/Interests
 
-**Not apps. System Design and Infrastructure.**
+**System Design and Infrastructure.**
 
 I Build compilers for quantum computers that don't exist yet. I Research on optimizing trading algorithms using quantum mechanics. I Expresment mergeing neural networks with symbolic reasoning.
 
