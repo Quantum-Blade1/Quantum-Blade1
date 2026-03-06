@@ -117,7 +117,7 @@ Building or Learning something ambitious, Let's connect.
 
 **📧** KrishKumarSharma72@gmail.com  
 **🔗** [LinkedIn](https://www.linkedin.com/in/krish-kumar-sharma-842419378/)  
-**📍** Bangalore, India
+**📍** Bangalore, Karnataka, India
 
 ---
 
