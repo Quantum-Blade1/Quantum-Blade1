@@ -1,0 +1,182 @@
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  .wrap { background: #0d1117; max-width: 780px; margin: 0 auto; padding: 2rem 1.5rem; font-family: 'JetBrains Mono', monospace; }
+  .hero { text-align: center; padding: 2rem 0 1.5rem; }
+  .ascii-border { color: #58a6ff; font-size: 13px; line-height: 1.4; white-space: pre; display: block; }
+  .name { font-size: 26px; font-weight: 700; color: #e6edf3; margin: 1rem 0 0.25rem; letter-spacing: 2px; }
+  .tagline { color: #484f58; font-size: 11px; margin-bottom: 1rem; }
+  .badges { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; }
+  .badge { font-size: 11px; padding: 3px 10px; border-radius: 3px; font-family: 'JetBrains Mono', monospace; text-decoration: none; }
+  .b-blue  { background: #1f3a5f; color: #58a6ff; border: 1px solid #58a6ff33; }
+  .b-red   { background: #3d1a1a; color: #ff7b72; border: 1px solid #ff7b7233; }
+  .b-green { background: #1a3a1a; color: #3fb950; border: 1px solid #3fb95033; }
+
+  .divider { color: #21262d; font-size: 11px; white-space: pre; display: block; margin: 1.5rem 0; text-align: center; }
+
+  .section { margin-bottom: 2rem; }
+  .sec-head { display: flex; align-items: center; gap: 10px; margin-bottom: 1rem; }
+  .sec-label { color: #58a6ff; font-size: 10px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; }
+  .sec-line { flex: 1; height: 1px; background: #21262d; }
+
+  .about-text { color: #8b949e; font-size: 12px; line-height: 2; }
+  .about-text .hi { color: #e3b341; }
+  .about-text .lo { color: #bc8cff; font-style: normal; }
+  .research { margin-top: 1rem; }
+  .r-item { font-size: 11.5px; color: #484f58; margin-bottom: 5px; }
+  .r-item span { color: #8b949e; }
+  .r-target { font-size: 10.5px; color: #3fb950; margin-top: 8px; }
+
+  .skill-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .skill-card { background: #161b22; border: 1px solid #21262d; border-radius: 6px; padding: 12px 14px; }
+  .skill-title { font-size: 10px; color: #58a6ff; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 8px; }
+  .skill-tag { display: inline-block; font-size: 10.5px; color: #6e7681; margin: 2px 6px 2px 0; }
+  .skill-tag::before { content: '·'; color: #3fb950; margin-right: 4px; }
+  .skill-note { font-size: 10px; color: #30363d; margin-top: 8px; font-style: italic; }
+
+  .books-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .book-group { background: #161b22; border: 1px solid #21262d; border-radius: 6px; padding: 12px 14px; }
+  .book-cat { font-size: 10px; color: #e3b341; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 10px; }
+  .book-item { font-size: 11px; color: #6e7681; margin-bottom: 7px; line-height: 1.5; display: flex; align-items: flex-start; gap: 6px; }
+  .book-item .dot { color: #30363d; flex-shrink: 0; margin-top: 1px; }
+  .book-item .curr { color: #3fb950; flex-shrink: 0; margin-top: 1px; }
+  .book-item .title { color: #c9d1d9; }
+  .book-author { color: #484f58; font-size: 10px; display: block; }
+
+  .connect-box { background: #161b22; border: 1px solid #21262d; border-radius: 6px; padding: 1.25rem 1.5rem; }
+  .connect-line { color: #6e7681; font-size: 11.5px; margin-bottom: 1rem; line-height: 1.9; }
+  .connect-links { display: flex; gap: 10px; flex-wrap: wrap; }
+
+  .footer { text-align: center; margin-top: 1.5rem; }
+  .quote { color: #30363d; font-size: 10.5px; font-style: italic; }
+</style>
+
+<div class="wrap">
+  <div class="hero">
+    <span class="ascii-border">┌─────────────────────────────────────────────────────┐
+│   compilers  ·  quantum-classical ml  ·  Quantum         │
+└─────────────────────────────────────────────────────┘</span>
+    <div class="name">KRISH KUMAR SHARMA</div>
+    <div class="tagline">BTech CSE · MSRIT · Bangalore · 2028</div>
+    <div class="badges">
+      <a class="badge b-red" href="mailto:KrishKumarSharma72@gmail.com">✉ email</a>
+      <a class="badge b-blue" href="https://www.linkedin.com/in/krish-kumar-sharma-842419378/">⇗ linkedin</a>
+      <span class="badge b-green">⌖ bangalore</span>
+    </div>
+  </div>
+
+  <span class="divider">── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ──</span>
+
+  <div class="section">
+    <div class="sec-head"><span class="sec-label">// about</span><span class="sec-line"></span></div>
+    <div class="about-text">
+      Learning systems from the ground up — <span class="hi">compiler IR</span>, <span class="lo">quantum circuit optimization</span>,<br>
+      and how they connect. Still figuring things out, building as I go.<br><br>
+      Working on two papers (in very early stages):<br>
+    </div>
+    <div class="research">
+      <div class="r-item">[ 1 ]  <span>DQC1: An MLIR-Based Compiler for Distributed Quantum Circuits</span></div>
+      <div class="r-item">[ 2 ]  <span>Quantum-Enhanced Neuro-Symbolic Reasoning Systems</span></div>
+      <div class="r-target">→ targeting IEEE Quantum Week · ICML · ACM · goal: 2 publications by 2028</div>
+    </div>
+  </div>
+
+  <span class="divider">── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ──</span>
+
+  <div class="section">
+    <div class="sec-head"><span class="sec-label">// skills</span><span class="sec-line"></span></div>
+    <div class="skill-grid">
+      <div class="skill-card">
+        <div class="skill-title">quantum</div>
+        <div>
+          <span class="skill-tag">Qiskit</span>
+          <span class="skill-tag">QAOA</span>
+          <span class="skill-tag">QUBO</span>
+          <span class="skill-tag">Qiskit</span>
+          <span class="skill-tag">circuit sim</span>
+        </div>
+        <div class="skill-note">learning — not production-ready</div>
+      </div>
+      <div class="skill-card">
+        <div class="skill-title">systems</div>
+        <div>
+          <span class="skill-tag">C++</span>
+          <span class="skill-tag">MLIR</span>
+          <span class="skill-tag">LLVM</span>
+          <span class="skill-tag">MPI</span>
+          <span class="skill-tag">compiler passes</span>
+        </div>
+        <div class="skill-note">actively building with these</div>
+      </div>
+      <div class="skill-card">
+        <div class="skill-title">ml</div>
+        <div>
+          <span class="skill-tag">PyTorch</span>
+          <span class="skill-tag">Python</span>
+          <span class="skill-tag">optimization</span>
+          <span class="skill-tag">neuro-symbolic</span>
+        </div>
+        <div class="skill-note">learning — coursework + projects</div>
+      </div>
+      <div class="skill-card">
+        <div class="skill-title">other</div>
+        <div>
+          <span class="skill-tag">MERN</span>
+          <span class="skill-tag">Vue</span>
+          <span class="skill-tag">Docker</span>
+          <span class="skill-tag">distributed sys</span>
+        </div>
+        <div class="skill-note">used when needed</div>
+      </div>
+    </div>
+  </div>
+
+  <span class="divider">── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ──</span>
+
+  <div class="section">
+    <div class="sec-head"><span class="sec-label">// books</span><span class="sec-line"></span></div>
+    <div class="books-grid">
+      <div class="book-group">
+        <div class="book-cat">◈ quantum</div>
+        <div class="book-item"><span class="curr">▶</span><div><span class="title">Quantum Computation & Quantum Information</span><span class="book-author">Nielsen & Chuang</span></div></div>
+        <div class="book-item"><span class="dot">·</span><div><span class="title">Quantum Computing: An Applied Approach</span><span class="book-author">Hidary</span></div></div>
+      </div>
+      <div class="book-group">
+        <div class="book-cat">◈ compilers</div>
+        <div class="book-item"><span class="dot">·</span><div><span class="title">Engineering a Compiler</span><span class="book-author">Cooper & Torczon</span></div></div>
+        <div class="book-item"><span class="dot">·</span><div><span class="title">Computer Architecture: A Quantitative Approach</span><span class="book-author">Hennessy & Patterson</span></div></div>
+      </div>
+      <div class="book-group">
+        <div class="book-cat">◈ ml & math</div>
+        <div class="book-item"><span class="dot">·</span><div><span class="title">Mathematics for Machine Learning</span><span class="book-author">Deisenroth, Faisal & Ong</span></div></div>
+        <div class="book-item"><span class="dot">·</span><div><span class="title">The Elements of Statistical Learning</span><span class="book-author">Hastie et al.</span></div></div>
+      </div>
+      <div class="book-group">
+        <div class="book-cat">◈ cryptography</div>
+        <div class="book-item"><span class="dot">·</span><div><span class="title">Introduction to Modern Cryptography</span><span class="book-author">Katz & Lindell</span></div></div>
+        <div class="book-item"><span class="dot">·</span><div><span class="title">The Mathematics of Secrets</span><span class="book-author">Joshua Holden</span></div></div>
+      </div>
+    </div>
+  </div>
+
+  <span class="divider">── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ──</span>
+
+  <div class="section">
+    <div class="sec-head"><span class="sec-label">// connect</span><span class="sec-line"></span></div>
+    <div class="connect-box">
+      <div class="connect-line">
+        if you're building something at the intersection of ml, quantum, or compilers —<br>
+        or just want to talk about any of the above, reach out.
+      </div>
+      <div class="connect-links">
+        <a class="badge b-red" href="mailto:KrishKumarSharma72@gmail.com">✉ KrishKumarSharma72@gmail.com</a>
+        <a class="badge b-blue" href="https://www.linkedin.com/in/krish-kumar-sharma-842419378/">⇗ linkedin</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="quote">"most people build what exists. i want to build what should exist."</div>
+  </div>
+</div>
