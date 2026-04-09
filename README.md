@@ -23,7 +23,7 @@ I'm a system, ML person obsessed with the layers — compiler IR, quantum circui
 
 ---
 
-## Books
+## Work Map
 
 Things that have shaped how I think. Not all finished — some are references, some are obsessions
 
