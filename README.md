@@ -2,7 +2,7 @@
 
 # Krish Kumar Sharma
 
-*Building what should exist — not what already does*
+*Building & learning*
 
 [![Email](https://img.shields.io/badge/Email-KrishKumarSharma72%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:KrishKumarSharma72@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krish--kumar--sharma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-kumar-sharma-842419378/)
@@ -17,30 +17,30 @@
 
 ## What I'm About
 
-I'm a system, ML person obsessed with the layers — compiler IR, quantum circuit optimization, and the math that glues them together, Currently learning by building
+I'm a person obsessed with the layers - ML, compiler IR, quantum circuits & optimization,
 
-> Interested in: low-level compute, hybrid quantum-classical architectures, and language-level abstractions for parallel systems
+> Interestedn & learning in: low-level compute, hybrid quantum-classical architectures, and programming languages
 
 ---
 
 ## Work Map
 
-Things that have shaped how I think. Not all finished — some are references, some are obsessions
+Things that have shaped how I think not all finished yet - some are references, some are obsessions
 
 **Quantum & Cryptography**
-- *Programming Quantum Computers* — Johnston, Harrigan & Gimeno-Segovia
-- *Quantum Computing: An Applied Approach* — Hidary
-- *Introduction to Modern Cryptography* — Katz & Lindell (current)
+- *Programming Quantum Computers* - Johnston, Harrigan & Gimeno-Segovia
+- *Quantum Computing: An Applied Approach* - Hidary
+- *Introduction to Modern Cryptography* - Katz & Lindell (current)
 
 **Compilers & Systems**
-- *Engineering a Compiler* — Cooper & Torczon (current)
-- *Computer Architecture: A Quantitative Approach* — Hennessy & Patterson
+- *Engineering a Compiler* - Cooper & Torczon (current)
+- *Computer Architecture: A Quantitative Approach* - Hennessy & Patterson
 
 **ML & Math**
-- *Deep Learning* — Goodfellow, Bengio & Courville
+- *Deep Learning* - Goodfellow, Bengio & Courville
 
 ---
 
 ## Let's Connect
 
-If you're building something, I want to hear about it
+If you're same learner like me or building something, I want to hear about it
