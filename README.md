@@ -15,7 +15,7 @@
 
 ---
 
-## What I'm About
+# What I'm About
 
 I'm a person obsessed with the layers - ML, compiler IR, quantum circuits & optimization,
 
@@ -23,7 +23,7 @@ I'm a person obsessed with the layers - ML, compiler IR, quantum circuits & opti
 
 ---
 
-## Work Map
+# Work Map
 
 Things that have shaped how I think not all finished yet - some are references, some are obsessions
 
@@ -41,6 +41,6 @@ Things that have shaped how I think not all finished yet - some are references, 
 
 ---
 
-## Let's Connect
+# Let's Connect
 
 If you're same learner like me or building something, I want to hear about it
