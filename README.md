@@ -39,7 +39,7 @@ intrests in compiler infrastructure, quantum systems, and ML
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws)
 ![Solidity](https://img.shields.io/badge/Solidity-black?style=flat-square&logo=solidity)
 [![GitHub](https://img.shields.io/badge/Quantum--Blade1-black?style=flat-square&logo=github)](https://github.com/Quantum-Blade1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode)](https://leetcode.com/u/YOUR_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode)](https://leetcode.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_SLUG)
 
 </div>
