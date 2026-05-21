@@ -2,7 +2,7 @@
 
 # Krish
 
-`CS '27 · MSRIT Bangalore`
+`CS '28 · MSRIT Bangalore`
 
 **Compilers** · **Quantum Computing** · **Machine Learning** · **Cryptography**
 <br>
