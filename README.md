@@ -1,7 +1,7 @@
 <div align="left">
 
 **Krish**
-
+don't follow me 
 **Compilers** · **Quantum Computing** · **Machine Learning** · **Cryptography**
 
 <div align="left">
