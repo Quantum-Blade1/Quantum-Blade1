@@ -1,7 +1,9 @@
 <div align="left">
 
 **Krish**
-don't follow me 
+
+don't follow me, anyway ill end up at microsoft bcs my brother is a SDE 3 
+
 **Compilers** · **Quantum Computing** · **Machine Learning** · **Cryptography**
 
 <div align="left">
